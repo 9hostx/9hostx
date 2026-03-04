@@ -35,6 +35,5 @@
 "The quieter you become, the more you can hear."
 ```
 
-![Views](https://komarev.com/ghpvc/?username=9hostx&color=333333&style=flat-square&label=watchers)
 
-</div>
+

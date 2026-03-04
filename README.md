@@ -11,9 +11,9 @@
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=666666)
 ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=666666)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=666666)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=666666)
-![Railway](https://img.shields.io/badge/Railway-1a1a1a?style=for-the-badge&logo=railway&logoColor=666666)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-1a1a1a?style=for-the-badge&logo=telegram&logoColor=666666)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=666666)
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=for-the-badge&logo=html5&logoColor=666666)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=666666)
 
 </div>
 

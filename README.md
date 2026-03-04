@@ -6,7 +6,7 @@
 
 </div>
 
-
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=666666)
 ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=666666)

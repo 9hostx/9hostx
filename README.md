@@ -9,7 +9,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=666666)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=666666)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=666666)
+![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=666666)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=666666)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=666666)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=666666)
 ![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=for-the-badge&logo=html5&logoColor=666666)
